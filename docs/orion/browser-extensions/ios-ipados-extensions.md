@@ -51,7 +51,7 @@ Note that the extension support is still in beta. Extension may not be fully sup
 
 3. From the **Extensions** management area, you can:
   - Use the **+** button to install Firefox, Chrome, or file-based extensions
-  - Disable one or more extensions
+  - Disable one or more extension
   - Uninstall one or more extensions
 
   <img src="./media/ipados_manage_extensions_2.png" width="500" alt="iPadOS Extensions Management Area"><br />
